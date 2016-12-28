@@ -12,4 +12,4 @@ To install these filters:
 
 Acknowledgement:
 
-Originally from [https://discussions.apple.com/message/6109398]
+Originally from https://discussions.apple.com/message/6109398
