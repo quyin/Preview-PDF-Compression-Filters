@@ -1,4 +1,8 @@
-To install:
+This repository contains filters for Preview on macOS, which can
+downsample images to 150/300/600DPI when you export files using
+File => Export.
+
+To install these filters:
 
 1. Open Finder
 2. Choose from menu: Go => Go to Folder, or press Cmd-Shift-G
@@ -9,4 +13,3 @@ To install:
 Acknowledgement:
 
 Originally from [https://discussions.apple.com/message/6109398]
-
